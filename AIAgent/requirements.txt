@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+gradio
+requests
+keyboard
+mss
+Pillow
+anthropic
